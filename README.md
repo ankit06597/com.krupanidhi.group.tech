@@ -1,0 +1,1 @@
+# com.krupanidhi.group.tech
