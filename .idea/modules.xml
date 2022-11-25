@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/com.krupanidhi.group.tech.iml" filepath="$PROJECT_DIR$/.idea/com.krupanidhi.group.tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mca/mca.iml" filepath="$PROJECT_DIR$/mca/mca.iml" />
+    </modules>
+  </component>
+</project>
